@@ -1,7 +1,7 @@
-ThorMATLAB
+ThorDigiFLIM_MATLAB
 Gary Yellen 2022
 
-ThorMATLAB provides MATLAB utilities for handling image data from Thorimage, with a focus on digiFLIM data.  Interprocess communication is also enabled for Thorimage 5.0.
+ThorDigiFLIM_MATLAB provides MATLAB utilities for handling image data from Thorimage, with a focus on digiFLIM data.  Interprocess communication is also enabled for Thorimage 5.0.
 
 *Sample dFLIM Viewer* contains a runnable GUIDE-based GUI, *TI_Viewer_Lg*, to view images in a Thorimage-stored experiment. The global variable TI_Viewer_app contains a TIExpt object and data objects; viewing the object contents and reading the TI_Viewer code can help a user who is interested in developing their own applications.
 
